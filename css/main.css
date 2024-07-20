@@ -22,7 +22,7 @@ body {
 
 
 .titulo {
-  margin-bottom: 1050px;
+  margin-bottom: 580px;
   font-size: 15px;
   font-family: "Arial Narrow", Arial, sans-serif;
   color: rgb(255, 255, 255);
@@ -44,10 +44,10 @@ body {
 
 
 .subtitulo {
-  margin-bottom: 700px;
+  margin-bottom: 525px;
   margin-right: 20%;
   margin-left: 20%;
-  font-size: 5px;
+  font-size: 8px;
   font-family: "Arial Narrow", Arial, sans-serif;
   color: rgb(255, 255, 255);
   position: absolute;
