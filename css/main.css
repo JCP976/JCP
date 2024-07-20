@@ -22,13 +22,13 @@ body {
 
 
 .titulo {
-  margin-bottom: 800px;
+  margin-bottom: 1050px;
   font-size: 15px;
   font-family: "Arial Narrow", Arial, sans-serif;
   color: rgb(255, 255, 255);
   position: absolute;
   font-weight: bold;
-  letter-spacing: 5px;
+  letter-spacing: 3px;
   opacity: 0;
   animation: fadeIn 3s ease-in-out forwards;
   text-align: center;
