@@ -22,7 +22,7 @@ body {
 
 
 .titulo {
-  margin-bottom: 825px;
+  margin-bottom: 500px;
   font-size: 50px;
   font-family: "Arial Narrow", Arial, sans-serif;
   color: rgb(255, 255, 255);
@@ -44,7 +44,7 @@ body {
 
 
 .subtitulo {
-  margin-bottom: 750px;
+  margin-bottom: 450px;
   margin-right: 20%;
   margin-left: 20%;
   font-size: 20px;
